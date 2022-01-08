@@ -1,0 +1,46 @@
+
+body{
+	
+	padding:  10px 50px;
+}
+form{
+	background-image: url("c.jpg");
+	border : 2px solid black;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4),0 6px 20px 0 rega(0,0,0,0.35);
+	font-family: sans-serif;
+	background-size: cover;
+}
+.name{
+	color: white;
+	border-radius: small;
+	text-align: center;
+	font-size: 50px;
+}
+.gender{
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.button{
+	font-weight: bold;
+	text-align: center;
+ 
+}
+input.btn{
+
+	color: white;
+	box-shadow: 1px 1px 5px ;
+	font-weight: bold;
+	border : 2px black;
+	background:black;
+}
+input.form-control{
+	visibility:20;
+}
+.form-label{
+	color: white;
+	font-weight: bold; 
+	font-size:20px;
+
+}
